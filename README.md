@@ -1,0 +1,2 @@
+# SatisfiabilityOfEqualityEquations
+Satisfiability of Equality Equations
